@@ -165,7 +165,7 @@ const HowToRegister = () => {
             Create your account now and start your journey to collecting your music royalties
           </p>
           <a
-            href="https://portal.com"
+            href="https://portal.namsa.ggff.net"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-bold hover:bg-accent/90 transition-colors"
