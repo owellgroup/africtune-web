@@ -38,12 +38,12 @@ const Navigation = () => {
                 {link.name}
               </Link>
             ))}
-            <a href="https://www.namsa.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://portal.namsa.ggff.net" target="_blank" rel="noopener noreferrer">
               <Button variant="default" className="bg-accent text-accent-foreground hover:bg-accent/90">
                 Apply for License
               </Button>
             </a>
-            <a href="https://portal.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://portal.namsa.ggff.net" target="_blank" rel="noopener noreferrer">
               <Button variant="default" className="bg-accent text-accent-foreground hover:bg-accent/90">
                 Login / Register
               </Button>
@@ -72,12 +72,12 @@ const Navigation = () => {
                 {link.name}
               </Link>
             ))}
-            <a href="https://www.namsa.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://portal.namsa.ggff.net" target="_blank" rel="noopener noreferrer">
               <Button variant="default" className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
                 Apply for License
               </Button>
             </a>
-            <a href="https://portal.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://portal.namsa.ggff.net" target="_blank" rel="noopener noreferrer">
               <Button variant="default" className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
                 Login / Register
               </Button>
