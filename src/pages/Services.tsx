@@ -98,7 +98,7 @@ const Services = () => {
             Let us handle your royalty collection while you focus on creating great music
           </p>
           <a
-            href="https://portal.com"
+            href="https://portal.namsa.ggff.net"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-bold hover:bg-accent/90 transition-colors"
