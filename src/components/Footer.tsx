@@ -32,8 +32,8 @@ const Footer = () => {
             <ul className="space-y-2 text-sm">
               <li><Link to="/track-performance" className="hover:text-accent transition-colors">Track Performance</Link></li>
               <li><Link to="/royalty-collection" className="hover:text-accent transition-colors">Royalty Collection</Link></li>
-              <li><a href="https://www.namsa.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Apply for License</a></li>
-              <li><a href="https://portal.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Login / Register</a></li>
+              <li><a href="https://portal.namsa.ggff.net" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Apply for License</a></li>
+              <li><a href="https://portal.namsa.ggff.net" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">Login / Register</a></li>
             </ul>
           </div>
 
