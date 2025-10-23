@@ -73,7 +73,7 @@ const Index = () => {
             Join thousands of African artists who are already collecting their rightful royalties
           </p>
           <a
-            href="https://portal.com"
+            href="https://portal.namsa.ggff.net/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-bold hover:bg-accent/90 transition-colors"
