@@ -163,7 +163,7 @@ const RoyaltyCollection = () => {
             just fair, transparent compensation for your work.
           </p>
           <a
-            href="https://portal.namsa.ggff.net"
+            href="https://portal.africtune.ggff.net"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-bold hover:bg-accent/90 transition-colors"
