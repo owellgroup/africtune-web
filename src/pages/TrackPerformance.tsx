@@ -159,7 +159,7 @@ const TrackPerformance = () => {
             Register now and gain access to powerful analytics that help you grow your music career
           </p>
           <a
-            href="https://portal.namsa.ggff.net/"
+            href="https://portal.africtune.ggff.net/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-accent text-accent-foreground px-8 py-3 rounded-lg font-bold hover:bg-accent/90 transition-colors"
